@@ -232,6 +232,14 @@ body #cdawrap {
 	padding-bottom: var(--padding-page);
 }
 
+.next {
+	align-self: auto;
+}
+
+.end {
+	align-self: center;
+}
+
 h2 {
 	position: relative;
 	font-size: 10vw;
